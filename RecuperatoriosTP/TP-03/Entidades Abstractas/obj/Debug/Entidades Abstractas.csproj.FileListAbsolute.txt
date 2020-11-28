@@ -1,0 +1,27 @@
+C:\Users\tomi_\source\repos\TP-03\Entidades Abstractas\bin\Debug\Entidades Abstractas.dll
+C:\Users\tomi_\source\repos\TP-03\Entidades Abstractas\bin\Debug\Entidades Abstractas.pdb
+C:\Users\tomi_\source\repos\TP-03\Entidades Abstractas\bin\Debug\Excepciones.dll
+C:\Users\tomi_\source\repos\TP-03\Entidades Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\tomi_\source\repos\TP-03\Entidades Abstractas\obj\Debug\Entidades Abstractas.csprojAssemblyReference.cache
+C:\Users\tomi_\source\repos\TP-03\Entidades Abstractas\obj\Debug\Entidades Abstractas.csproj.CoreCompileInputs.cache
+C:\Users\tomi_\source\repos\TP-03\Entidades Abstractas\obj\Debug\Entidades Abstractas.csproj.CopyComplete
+C:\Users\tomi_\source\repos\TP-03\Entidades Abstractas\obj\Debug\Entidades Abstractas.dll
+C:\Users\tomi_\source\repos\TP-03\Entidades Abstractas\obj\Debug\Entidades Abstractas.pdb
+C:\Users\Usuario\Desktop\TP_laboratorio_2-master (3)\TP_laboratorio_2-master\TP-03\Entidades Abstractas\bin\Debug\Entidades Abstractas.dll
+C:\Users\Usuario\Desktop\TP_laboratorio_2-master (3)\TP_laboratorio_2-master\TP-03\Entidades Abstractas\bin\Debug\Entidades Abstractas.pdb
+C:\Users\Usuario\Desktop\TP_laboratorio_2-master (3)\TP_laboratorio_2-master\TP-03\Entidades Abstractas\bin\Debug\Excepciones.dll
+C:\Users\Usuario\Desktop\TP_laboratorio_2-master (3)\TP_laboratorio_2-master\TP-03\Entidades Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\Usuario\Desktop\TP_laboratorio_2-master (3)\TP_laboratorio_2-master\TP-03\Entidades Abstractas\obj\Debug\Entidades Abstractas.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\TP_laboratorio_2-master (3)\TP_laboratorio_2-master\TP-03\Entidades Abstractas\obj\Debug\Entidades Abstractas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TP_laboratorio_2-master (3)\TP_laboratorio_2-master\TP-03\Entidades Abstractas\obj\Debug\Entidades Abstractas.csproj.CopyComplete
+C:\Users\Usuario\Desktop\TP_laboratorio_2-master (3)\TP_laboratorio_2-master\TP-03\Entidades Abstractas\obj\Debug\Entidades Abstractas.dll
+C:\Users\Usuario\Desktop\TP_laboratorio_2-master (3)\TP_laboratorio_2-master\TP-03\Entidades Abstractas\obj\Debug\Entidades Abstractas.pdb
+C:\Users\Usuario\Desktop\Programacion\Nueva carpeta (3)\TP-03\Entidades Abstractas\bin\Debug\Entidades Abstractas.dll
+C:\Users\Usuario\Desktop\Programacion\Nueva carpeta (3)\TP-03\Entidades Abstractas\bin\Debug\Entidades Abstractas.pdb
+C:\Users\Usuario\Desktop\Programacion\Nueva carpeta (3)\TP-03\Entidades Abstractas\bin\Debug\Excepciones.dll
+C:\Users\Usuario\Desktop\Programacion\Nueva carpeta (3)\TP-03\Entidades Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\Usuario\Desktop\Programacion\Nueva carpeta (3)\TP-03\Entidades Abstractas\obj\Debug\Entidades Abstractas.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Programacion\Nueva carpeta (3)\TP-03\Entidades Abstractas\obj\Debug\Entidades Abstractas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Programacion\Nueva carpeta (3)\TP-03\Entidades Abstractas\obj\Debug\Entidades Abstractas.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Programacion\Nueva carpeta (3)\TP-03\Entidades Abstractas\obj\Debug\Entidades Abstractas.dll
+C:\Users\Usuario\Desktop\Programacion\Nueva carpeta (3)\TP-03\Entidades Abstractas\obj\Debug\Entidades Abstractas.pdb

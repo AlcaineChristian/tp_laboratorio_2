@@ -1,0 +1,2 @@
+C:\Users\Usuario\Desktop\Programacion\Nueva carpeta (3)\TP-03\Test Unitarios\obj\Debug\Test Unitarios.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Programacion\Nueva carpeta (3)\TP-03\Test Unitarios\obj\Debug\Test Unitarios.csproj.CoreCompileInputs.cache
