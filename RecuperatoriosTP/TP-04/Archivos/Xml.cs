@@ -12,7 +12,7 @@ namespace Archivos
 {
     public class Xml<T> : Archivos<T>
     {
-        
+
         public bool Guardar(string archivo, T datos)
         {
             try
@@ -26,7 +26,7 @@ namespace Archivos
                         ser.Serialize(writer, datos);
 
                         return true;
-                        
+
                     }
                 }
             }
@@ -39,7 +39,7 @@ namespace Archivos
             return false;
         }
 
-        
+
         public bool Leer(string archivo, out T datos)
         {
             datos = default(T);

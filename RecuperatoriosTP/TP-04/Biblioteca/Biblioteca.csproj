@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4173D096-976D-4595-8FBF-8938E64535DD}</ProjectGuid>
+    <ProjectGuid>{D40AC562-1AB0-4B00-AD60-F67A376A4C07}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Biblioteca</RootNamespace>
@@ -33,6 +33,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -42,19 +43,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Inventario.cs" />
-    <Compile Include="Pedido.cs" />
+    <Compile Include="Compras.cs" />
+    <Compile Include="Extensiones.cs" />
+    <Compile Include="Hardcodeo.cs" />
+    <Compile Include="ManejadorSQL.cs" />
+    <Compile Include="Personas.cs" />
+    <Compile Include="Producto.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SQL.cs" />
     <Compile Include="Ventas.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Archivos\Archivos.csproj">
-      <Project>{60ade810-c2de-46cf-81b3-59a862263b1f}</Project>
+      <Project>{68392e58-48f9-4ab6-8539-c54e00783fcb}</Project>
       <Name>Archivos</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Exepciones\Excepciones.csproj">
-      <Project>{cd7069d9-bbc0-4b37-92a1-6ae5d566699c}</Project>
+    <ProjectReference Include="..\Excepciones\Excepciones.csproj">
+      <Project>{ffd27ef3-e01e-49d0-83e2-fbc753e9869a}</Project>
       <Name>Excepciones</Name>
     </ProjectReference>
   </ItemGroup>

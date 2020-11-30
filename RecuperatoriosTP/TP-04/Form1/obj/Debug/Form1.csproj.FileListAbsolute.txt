@@ -1,0 +1,80 @@
+C:\Users\Usuario\Desktop\Primer parcial\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Primer parcial\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.FrmCargarProductos.resources
+C:\Users\Usuario\Desktop\Primer parcial\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.FrmLog.resources
+C:\Users\Usuario\Desktop\Primer parcial\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.FrmMenu.resources
+C:\Users\Usuario\Desktop\Primer parcial\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.FrmNuevaVenta.resources
+C:\Users\Usuario\Desktop\Primer parcial\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.FrmProductos.resources
+C:\Users\Usuario\Desktop\Primer parcial\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.FrmStock.resources
+C:\Users\Usuario\Desktop\Primer parcial\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.FrmVentas.resources
+C:\Users\Usuario\Desktop\Primer parcial\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Primer parcial\Tomas.Alcaine.2D\Form1\bin\Debug\Form1.exe.config
+C:\Users\Usuario\Desktop\Primer parcial\Tomas.Alcaine.2D\Form1\bin\Debug\Form1.exe
+C:\Users\Usuario\Desktop\Primer parcial\Tomas.Alcaine.2D\Form1\bin\Debug\Form1.pdb
+C:\Users\Usuario\Desktop\Primer parcial\Tomas.Alcaine.2D\Form1\bin\Debug\Biblioteca.dll
+C:\Users\Usuario\Desktop\Primer parcial\Tomas.Alcaine.2D\Form1\bin\Debug\Biblioteca.pdb
+C:\Users\Usuario\Desktop\Primer parcial\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Primer parcial\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Primer parcial\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Primer parcial\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.exe
+C:\Users\Usuario\Desktop\Primer parcial\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\Primer parcial\Tomas.Alcaine.2D\Form1\bin\Debug\Form1.exe.config
+C:\Users\Usuario\Desktop\Nueva carpeta\Primer parcial\Tomas.Alcaine.2D\Form1\bin\Debug\Form1.exe
+C:\Users\Usuario\Desktop\Nueva carpeta\Primer parcial\Tomas.Alcaine.2D\Form1\bin\Debug\Form1.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\Primer parcial\Tomas.Alcaine.2D\Form1\bin\Debug\Biblioteca.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\Primer parcial\Tomas.Alcaine.2D\Form1\bin\Debug\Biblioteca.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\Primer parcial\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Nueva carpeta\Primer parcial\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.FrmCargarProductos.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Primer parcial\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.FrmLog.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Primer parcial\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.FrmMenu.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Primer parcial\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.FrmNuevaVenta.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Primer parcial\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.FrmProductos.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Primer parcial\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.FrmStock.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Primer parcial\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.FrmVentas.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Primer parcial\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Primer parcial\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Nueva carpeta\Primer parcial\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Nueva carpeta\Primer parcial\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Nueva carpeta\Primer parcial\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.exe
+C:\Users\Usuario\Desktop\Nueva carpeta\Primer parcial\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\Primer parcial\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.FrmListadoVentas.resources
+C:\Users\Usuario\Desktop\Tomas.Alcaine.2D\Form1\bin\Debug\Form1.exe.config
+C:\Users\Usuario\Desktop\Tomas.Alcaine.2D\Form1\bin\Debug\Form1.exe
+C:\Users\Usuario\Desktop\Tomas.Alcaine.2D\Form1\bin\Debug\Form1.pdb
+C:\Users\Usuario\Desktop\Tomas.Alcaine.2D\Form1\bin\Debug\Biblioteca.dll
+C:\Users\Usuario\Desktop\Tomas.Alcaine.2D\Form1\bin\Debug\Biblioteca.pdb
+C:\Users\Usuario\Desktop\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.FrmCargarProductos.resources
+C:\Users\Usuario\Desktop\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.FrmListadoVentas.resources
+C:\Users\Usuario\Desktop\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.FrmLog.resources
+C:\Users\Usuario\Desktop\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.FrmMenu.resources
+C:\Users\Usuario\Desktop\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.FrmNuevaVenta.resources
+C:\Users\Usuario\Desktop\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.FrmProductos.resources
+C:\Users\Usuario\Desktop\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.FrmStock.resources
+C:\Users\Usuario\Desktop\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.FrmVentas.resources
+C:\Users\Usuario\Desktop\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.exe
+C:\Users\Usuario\Desktop\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.pdb
+C:\Users\Usuario\Desktop\Programacion\Nueva carpeta\Primer parcial\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Programacion\Nueva carpeta\Primer parcial\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.FrmCargarProductos.resources
+C:\Users\Usuario\Desktop\Programacion\Nueva carpeta\Primer parcial\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.FrmMenu.resources
+C:\Users\Usuario\Desktop\Programacion\Nueva carpeta\Primer parcial\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.FrmNuevaVenta.resources
+C:\Users\Usuario\Desktop\Programacion\Nueva carpeta\Primer parcial\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.FrmProductos.resources
+C:\Users\Usuario\Desktop\Programacion\Nueva carpeta\Primer parcial\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.FrmStock.resources
+C:\Users\Usuario\Desktop\Programacion\Nueva carpeta\Primer parcial\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Programacion\Nueva carpeta\Primer parcial\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Programacion\Nueva carpeta\Primer parcial\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Programacion\Nueva carpeta\Primer parcial\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.exe
+C:\Users\Usuario\Desktop\Programacion\Nueva carpeta\Primer parcial\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.pdb
+C:\Users\Usuario\Desktop\Programacion\Nueva carpeta\Primer parcial\Tomas.Alcaine.2D\Form1\bin\Debug\Form1.exe.config
+C:\Users\Usuario\Desktop\Programacion\Nueva carpeta\Primer parcial\Tomas.Alcaine.2D\Form1\bin\Debug\Form1.exe
+C:\Users\Usuario\Desktop\Programacion\Nueva carpeta\Primer parcial\Tomas.Alcaine.2D\Form1\bin\Debug\Form1.pdb
+C:\Users\Usuario\Desktop\Programacion\Nueva carpeta\Primer parcial\Tomas.Alcaine.2D\Form1\bin\Debug\Biblioteca.dll
+C:\Users\Usuario\Desktop\Programacion\Nueva carpeta\Primer parcial\Tomas.Alcaine.2D\Form1\bin\Debug\Excepciones.dll
+C:\Users\Usuario\Desktop\Programacion\Nueva carpeta\Primer parcial\Tomas.Alcaine.2D\Form1\bin\Debug\Biblioteca.pdb
+C:\Users\Usuario\Desktop\Programacion\Nueva carpeta\Primer parcial\Tomas.Alcaine.2D\Form1\bin\Debug\Excepciones.pdb
+C:\Users\Usuario\Desktop\Programacion\Nueva carpeta\Primer parcial\Tomas.Alcaine.2D\Form1\obj\Debug\Form1.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Programacion\Nueva carpeta\Primer parcial\Tomas.Alcaine.2D\Form1\bin\Debug\Archivos.dll
+C:\Users\Usuario\Desktop\Programacion\Nueva carpeta\Primer parcial\Tomas.Alcaine.2D\Form1\bin\Debug\Archivos.pdb

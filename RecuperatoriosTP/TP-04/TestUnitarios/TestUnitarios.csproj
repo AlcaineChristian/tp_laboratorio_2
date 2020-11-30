@@ -5,7 +5,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{222BDC58-FEC5-4E1B-9075-65CCD272BD19}</ProjectGuid>
+    <ProjectGuid>{47FCDBE0-B041-4B84-99FB-8BFC535A5347}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>TestUnitarios</RootNamespace>
@@ -49,7 +49,7 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Test.cs" />
+    <Compile Include="TestTP04.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -57,7 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Biblioteca\Biblioteca.csproj">
-      <Project>{4173d096-976d-4595-8fbf-8938e64535dd}</Project>
+      <Project>{d40ac562-1ab0-4b00-ad60-f67a376a4c07}</Project>
       <Name>Biblioteca</Name>
     </ProjectReference>
   </ItemGroup>

@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{60ADE810-C2DE-46CF-81B3-59A862263B1F}</ProjectGuid>
+    <ProjectGuid>{68392E58-48F9-4AB6-8539-C54E00783FCB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Archivos</RootNamespace>
@@ -47,8 +47,8 @@
     <Compile Include="Xml.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Exepciones\Excepciones.csproj">
-      <Project>{cd7069d9-bbc0-4b37-92a1-6ae5d566699c}</Project>
+    <ProjectReference Include="..\Excepciones\Excepciones.csproj">
+      <Project>{ffd27ef3-e01e-49d0-83e2-fbc753e9869a}</Project>
       <Name>Excepciones</Name>
     </ProjectReference>
   </ItemGroup>
